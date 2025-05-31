@@ -1,6 +1,6 @@
-from chemical_eng_agents.fluid_mech_agent import FluidMechanicsAgent
-from chemical_eng_agents.heat_transfer_agent import HeatTransferAgent
-from chemical_eng_agents.reactor_design_agent import ReactorDesignAgent
+from chem_eng_agents.fluid_mech_agent import FluidMechanicsAgent
+from chem_eng_agents.heat_transfer_agent import HeatTransferAgent
+from chem_eng_agents.reactor_design_agent import ReactorDesignAgent
 # ... other agents
 class MasterAgent:
     def __init__(self):
